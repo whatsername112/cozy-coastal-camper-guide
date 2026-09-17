@@ -1,0 +1,1 @@
+Starter website. Replace placeholder text and add your photos into the photos folder.
